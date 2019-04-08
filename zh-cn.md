@@ -110,8 +110,8 @@ golang RESTAPI接口开发
 ### 内容 
 
 1. [Learning Go’s Concurrency Through Illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3)
-2. Go Concurrency Patterns[code](https://github.com/kevchn/go-concurrency-patterns) [slide](https://talks.golang.org/2012/concurrency.slide#1) 
-3. Advanced Go Concurrency Patterns[code](https://github.com/ctiwald/agcp) [slide](https://talks.golang.org/2013/advconc.slide#1)
+2. Go Concurrency Patterns [code](https://github.com/kevchn/go-concurrency-patterns) [slide](https://talks.golang.org/2012/concurrency.slide#1) 
+3. Advanced Go Concurrency Patterns [code](https://github.com/ctiwald/agcp) [slide](https://talks.golang.org/2013/advconc.slide#1)
 
 
 ## code 
@@ -126,7 +126,7 @@ golang RESTAPI接口开发
 2. [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
 3. [How to write bulletproof code in Go: a workflow for servers that can’t fail](https://medium.freecodecamp.org/how-to-write-bulletproof-code-in-go-a-workflow-for-servers-that-cant-fail-10a14a765f22) 
 4. [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide#1) 
-5. [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
+
 
 
 # 参考
